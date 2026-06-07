@@ -2,8 +2,7 @@ itsjonq.owlet
 catppuccin.catppuccin-vsc
 formulahendry.code-runner
 golang.go
-fill-labs.dependi
-pinage404.rust-extension-pack
+zerotaskx.rust-extension-pack
 pinage404.bash-extension-pack
 devsense.composer-php-vscode
 devsense.phptools-vscode
@@ -31,4 +30,4 @@ d-biehl.robotcode
 saoudrizwan.claude-dev  
 rooveterinaryinc.roo-cline  
 continue.continue
-codium.codium
+
